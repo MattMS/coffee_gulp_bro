@@ -1,3 +1,3 @@
-# Coffee gulp bro
+# Don't gulp your coffee, bro
 
-Example of Literate CoffeScript, Gulp and Browserify.
+Example of Literate CoffeScript, and Browserify.
