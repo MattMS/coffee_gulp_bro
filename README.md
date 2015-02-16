@@ -1,3 +1,4 @@
 # Coffee gulp bro
 
-Example of Literate CoffeScript, Gulp and Browserify.
+An example of using Gulp to compile Literate CoffeeScript using
+Browserify to allow use of `require()`.
